@@ -96,3 +96,5 @@ Project notes from the implemented deck passes live in:
 ## License
 
 Repository code and documentation are MIT licensed. Source maps and subdivision data keep their upstream licenses and attribution requirements as documented in `maps/README.md` and the data manifests.
+
+Support continued development: [ritornello.dev/support](https://ritornello.dev/support).

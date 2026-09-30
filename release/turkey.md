@@ -11,3 +11,5 @@ Map-based Anki cards for Turkey's geographical regions.
 The deck covers region names, Turkish names, region type, neighboring regions, bordering countries and waters, and locator-map recognition. Source data, map provenance, and the reproducible build workflow are documented in the GitHub repository.
 
 GitHub: [https://github.com/ritornello-labs/country-subdivision-map-decks](https://github.com/ritornello-labs/country-subdivision-map-decks)
+
+Support continued development: [ritornello.dev/support](https://ritornello.dev/support).
