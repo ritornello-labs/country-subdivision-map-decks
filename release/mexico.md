@@ -4,6 +4,10 @@ tags: mexico geography maps states federative-entities
 support_url: https://github.com/ritornello-labs/country-subdivision-map-decks
 ---
 
+<img src="https://ritornello.dev/media/brand/listing-banner-v1.png" alt="Ritornello" width="700">
+
+[Explore all Ritornello decks and add-ons](https://ritornello.dev/).
+
 ![Mexico federative entities card preview](https://ritornello.dev/media/ankiweb/2026-07-30/country-subdivision-map-decks/mexico-preview.png)
 
 Map-based Anki cards for Mexico's federative entities.
