@@ -8,11 +8,15 @@ support_url: https://github.com/ritornello-labs/country-subdivision-map-decks
 
 [Explore all Ritornello decks and add-ons](https://ritornello.dev/).
 
-![Turkey regions card preview](https://ritornello.dev/media/ankiweb/2026-07-30/country-subdivision-map-decks/turkey-preview.png)
+Learn Turkey's seven [geographical regions](https://en.wikipedia.org/wiki/Geographical_regions_of_Turkey).
 
-Map-based Anki cards for Turkey's geographical regions.
+**7 notes · 21 cards.** Three recall directions cover highlighted-map identification, region-to-locator recall, and connections to neighbouring regions, countries, and waters. Answers also include Turkish names and reference context. These are geographical regions rather than administrative provinces.
 
-The deck covers region names, Turkish names, region type, neighboring regions, bordering countries and waters, and locator-map recognition. Source data, map provenance, and the reproducible build workflow are documented in the GitHub repository.
+## See it in Anki
+
+![Identify the Aegean Region on Turkey’s map](https://ritornello.dev/media/ankiweb/2026-10-07-v7/turkey/map.gif)
+
+The example identifies the Aegean Region. Source data, map provenance, and the reproducible build workflow are documented in the repository.
 
 GitHub: [https://github.com/ritornello-labs/country-subdivision-map-decks](https://github.com/ritornello-labs/country-subdivision-map-decks)
 

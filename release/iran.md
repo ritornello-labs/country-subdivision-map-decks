@@ -8,11 +8,15 @@ support_url: https://github.com/ritornello-labs/country-subdivision-map-decks
 
 [Explore all Ritornello decks and add-ons](https://ritornello.dev/).
 
-![Iran provinces card preview](https://ritornello.dev/media/ankiweb/2026-07-30/country-subdivision-map-decks/iran-preview.png)
+Learn Iran's 31 provinces through map recognition, capitals, and connections.
 
-Map-based Anki cards for Iran's provinces.
+**31 notes · 155 cards.** Five recall directions pair locator maps with province names, province names with their locator maps, both capital directions, and neighbouring provinces, countries, and waters. Answers include Persian names, aliases where available, and reference context.
 
-The deck covers province names, capitals, Persian names, aliases, neighboring provinces, bordering countries and waters, and locator-map recognition. Source data, map provenance, and the reproducible build workflow are documented in the GitHub repository.
+## See it in Anki
+
+![Identify Alborz on the map of Iran](https://ritornello.dev/media/ankiweb/2026-10-07-v7/iran/map.gif)
+
+The example identifies Alborz. Source data, map provenance, and the reproducible build workflow are documented in the repository.
 
 GitHub: [https://github.com/ritornello-labs/country-subdivision-map-decks](https://github.com/ritornello-labs/country-subdivision-map-decks)
 

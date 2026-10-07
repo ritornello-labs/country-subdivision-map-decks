@@ -8,11 +8,15 @@ support_url: https://github.com/ritornello-labs/country-subdivision-map-decks
 
 [Explore all Ritornello decks and add-ons](https://ritornello.dev/).
 
-![South Africa provinces card preview](https://ritornello.dev/media/ankiweb/2026-07-30/country-subdivision-map-decks/south-africa-preview.png)
+Learn South Africa's nine provinces through map recognition, capitals, and connections.
 
-Map-based Anki cards for South Africa's provinces.
+**9 notes · 45 cards.** Five recall directions pair locator maps with province names, names with locator maps, both capital directions, and connections to neighbouring provinces, countries, and waters.
 
-The deck covers province names, capitals, neighboring provinces, bordering countries and waters, and locator-map recognition. Source data, map provenance, and the reproducible build workflow are documented in the GitHub repository.
+## See it in Anki
+
+![Identify Western Cape on the map of South Africa](https://ritornello.dev/media/ankiweb/2026-10-07-v7/south-africa/map.gif)
+
+The example identifies Western Cape. Source data, map provenance, and the reproducible build workflow are documented in the repository.
 
 GitHub: [https://github.com/ritornello-labs/country-subdivision-map-decks](https://github.com/ritornello-labs/country-subdivision-map-decks)
 

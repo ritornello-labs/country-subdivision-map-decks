@@ -8,11 +8,15 @@ support_url: https://github.com/ritornello-labs/country-subdivision-map-decks
 
 [Explore all Ritornello decks and add-ons](https://ritornello.dev/).
 
-![Mexico federative entities card preview](https://ritornello.dev/media/ankiweb/2026-07-30/country-subdivision-map-decks/mexico-preview.png)
+Learn Mexico's 32 federative entities—31 states and Mexico City—through map recognition, capitals, and connections.
 
-Map-based Anki cards for Mexico's federative entities.
+**32 notes · 160 cards.** Five recall directions pair locator maps with entity names, names with locator maps, both capital directions, and connections to neighbouring entities, countries, and waters. Answers include entity type and reference context.
 
-The deck covers entity names, capitals, entity type, neighboring entities, bordering countries and waters, and locator-map recognition. Source data, map provenance, and the reproducible build workflow are documented in the GitHub repository.
+## See it in Anki
+
+![Identify Jalisco on the map of Mexico](https://ritornello.dev/media/ankiweb/2026-10-07-v7/mexico/map.gif)
+
+The example identifies Jalisco. Source data, map provenance, and the reproducible build workflow are documented in the repository.
 
 GitHub: [https://github.com/ritornello-labs/country-subdivision-map-decks](https://github.com/ritornello-labs/country-subdivision-map-decks)
 
