@@ -26,7 +26,7 @@ Install the shared decks from AnkiWeb:
 
 - [Mexico Federative Entities: Map Cards](https://ankiweb.net/shared/info/1177438513)
 - [South Africa Provinces: Map Cards](https://ankiweb.net/shared/info/1910958626)
-- [Turkey Regions: Map Cards](https://ankiweb.net/shared/info/1207470716)
+- [Turkey Regions: Map Cards](https://ankiweb.net/shared/info/590256847) · [Latest release](https://github.com/ritornello-labs/country-subdivision-map-decks/releases/tag/v2026.10.08) · [Download APKG](https://github.com/ritornello-labs/country-subdivision-map-decks/releases/download/v2026.10.08/turkey-delivered.apkg)
 - [Iran Provinces: Map Cards](https://ankiweb.net/shared/info/1452052368)
 
 ## Data

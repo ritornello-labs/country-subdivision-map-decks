@@ -1,6 +1,6 @@
 # Listing preparation — 2026-10-07
 
-Status: prepared for review; **awaiting explicit image/copy approval**. No AnkiWeb submission or public media upload in this pass.
+Status: Turkey’s approved complete listing and three GIFs submitted October 8. Iran, Mexico and South Africa still await explicit complete image/copy approval.
 
 The complete local review hub and native capture sources are recorded in the private workspace publication queue. GIFs use actual Anki 25.09 workbench captures from disposable profiles. Similar question/answer demos hold the question for two seconds and answer for three; interactive demos allow time for actions and feedback.
 
@@ -52,3 +52,9 @@ Every listing includes the Ritornello banner, gallery invitation, stable support
 5. Attach the exact submitted/delivered bytes to a tagged GitHub release, verify its digest, and update the website gallery/release links and workspace queue.
 
 For add-ons installed directly from GitHub release files, release notes must explain that they do not auto-update; AnkiWeb installs do.
+
+## Turkey publication completed — October 8
+
+Canonical AnkiWeb listing 590256847 refreshed using its verified original share name, `Geography::Turkey Regions`. Duplicate 1207470716 remains unchanged. Native owner delivery preserves seven notes, 21 cards, GUIDs/model IDs, card/deck associations, fields, templates, CSS and all media.
+
+Exact delivered package: 12,294,426 bytes; SHA-256 `a7bb5b9c4d6e44066d983666e58cb262ffd07a097e91c2cffa1da160a34520d4`. Attached as `turkey-delivered.apkg` to signed `v2026.10.08`; GitHub asset digest matches. Approved media are deployed under `2026-10-08-v8/turkey/`. Website canonical listing and release/download links are updated. Personal collection untouched.
