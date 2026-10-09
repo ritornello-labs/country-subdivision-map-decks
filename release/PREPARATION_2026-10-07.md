@@ -11,10 +11,13 @@ Every listing includes the Ritornello banner, gallery invitation, stable support
 ### Turkey Regions: Map Cards
 
 - Listing: `release/turkey.md`
-- Copy SHA-256: `949e2adb8de5c8e357cafb6939bc61e6b3f5581fb3725546f384b607f0b2f65c`
-- Candidate SHA-256: `1e9dedee4a0564c01e1f335146458219d90ffa71ca99bf0a7582d59eaa7f5356`
-- Approval: awaiting approval
-- GIF `turkey/map.gif`: `5e32f95fe5b1887a39b4ad13a2ea7d4b32bbabc8e26959f0c675a685f510fa7a`
+- Canonical listing: 590256847; duplicate 1207470716 unchanged.
+- Copy SHA-256: `a62f116a8b4bd1c47e4ffa207a1d2df2113d96edaa34fdaaa8281611d6a5870e`
+- Candidate SHA-256: `141ad5a60788024d41be53620f91a7a0fd564bc888d861a11c7f0ec628ee1b86`
+- Complete listing and all three GIFs approved October 8 (“Go ahead”).
+- GIF `turkey/map.gif`: `26eda4fe08dd567569cd48375241b8d8e3e223a36f036b8b858af579412e0df8`
+- GIF `turkey/locate.gif`: `eb843c9c908087b3ec2038483b580fef2be3bb5653055a4f019cef45e8fb89c4`
+- GIF `turkey/connections.gif`: `81a3fd67ff6db28d5471f7dde1ef6b60b66f6b5e3dba77e35c006a0c780a6dea`
 
 ### Iran Provinces: Map Cards
 
