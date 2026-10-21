@@ -1,0 +1,19 @@
+{
+  "slug": "iran",
+  "notes": 31,
+  "cards": 155,
+  "source_guids_model_ids_card_associations_templates_fields_css_and_media": "exact",
+  "sha256": "74f4bd056aeeac80e1d7e522de93599170f027c8b0b79a67f75b9a50fe4d5c5c",
+  "bytes": 10781656,
+  "ankiweb": "https://ankiweb.net/shared/info/1452052368",
+  "date_local": "2026-10-20",
+  "github_release": "https://github.com/ritornello-labs/country-subdivision-map-decks/releases/tag/v2026.10.20",
+  "source_share_name_verified": true,
+  "approved_native_gifs": 5,
+  "personal_collection_accessed": false,
+  "publisher_mutation": "approved CSS only",
+  "publisher_sync": "normal; media sync explicitly completed",
+  "schema_changed": false,
+  "github_digest_verified": true,
+  "website": "gallery deployed; release-link follow-up pending"
+}
