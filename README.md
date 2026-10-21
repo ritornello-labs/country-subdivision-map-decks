@@ -13,7 +13,7 @@ Deck-building workspace for first-level country subdivision geography decks.
 | --- | --- |
 | ![Mexico federative entities card preview](docs/screenshots/mexico-preview.png) | ![South Africa provinces card preview](docs/screenshots/south-africa-preview.png) |
 | Turkey | Iran |
-| ![Identify the Aegean Region in native Anki](https://ritornello.dev/media/ankiweb/2026-10-08-v8/turkey/map.gif) | ![Iran provinces card preview](docs/screenshots/iran-preview.png) |
+| ![Identify the Aegean Region in native Anki](https://ritornello.dev/media/ankiweb/2026-10-08-v8/turkey/map.gif) | ![Identify Alborz in native Anki](https://ritornello.dev/media/ankiweb/2026-10-15-v11/iran/map.gif) |
 
 Current active countries:
 
