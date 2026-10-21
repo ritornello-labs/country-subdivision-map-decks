@@ -1,5 +1,7 @@
 # country-subdivision-map-decks
 
+[Explore all Ritornello decks and add-ons](https://ritornello.dev/).
+
 [![Anki Workbench](https://github.com/ritornello-labs/country-subdivision-map-decks/actions/workflows/anki-workbench.yml/badge.svg)](https://github.com/ritornello-labs/country-subdivision-map-decks/actions/workflows/anki-workbench.yml)
 [![AnkiWeb](https://img.shields.io/badge/AnkiWeb-4_shared_decks-15a5ef)](#download)
 ![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue)
@@ -11,7 +13,7 @@ Deck-building workspace for first-level country subdivision geography decks.
 | --- | --- |
 | ![Mexico federative entities card preview](docs/screenshots/mexico-preview.png) | ![South Africa provinces card preview](docs/screenshots/south-africa-preview.png) |
 | Turkey | Iran |
-| ![Turkey regions card preview](docs/screenshots/turkey-preview.png) | ![Iran provinces card preview](docs/screenshots/iran-preview.png) |
+| ![Identify the Aegean Region in native Anki](https://ritornello.dev/media/ankiweb/2026-10-08-v8/turkey/map.gif) | ![Iran provinces card preview](docs/screenshots/iran-preview.png) |
 
 Current active countries:
 
