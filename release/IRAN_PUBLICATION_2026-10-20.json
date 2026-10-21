@@ -15,5 +15,7 @@
   "publisher_sync": "normal; media sync explicitly completed",
   "schema_changed": false,
   "github_digest_verified": true,
-  "website": "gallery deployed; release-link follow-up pending"
+  "website": "https://ritornello.dev/#iran-provinces",
+  "website_gallery_pr": 20,
+  "website_archive_pr": 21
 }
