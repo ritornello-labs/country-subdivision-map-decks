@@ -8,4 +8,5 @@ login_email_env = "ANKIWEB_EMAIL"
 login_password_env = "ANKIWEB_PASSWORD"
 
 [tool.anki-addon-release.deck]
+anki_connect_url = "http://127.0.0.1:8766"
 source_deck_id_env = "ANKIWEB_SOURCE_DECK_ID_MEXICO_FEDERATIVE_ENTITIES"
