@@ -11,7 +11,7 @@ Deck-building workspace for first-level country subdivision geography decks.
 
 | Mexico | South Africa |
 | --- | --- |
-| ![Identify Jalisco in native Anki](https://ritornello.dev/media/ankiweb/2026-10-20-v12/mexico/map.gif) | ![South Africa provinces card preview](docs/screenshots/south-africa-preview.png) |
+| ![Identify Jalisco in native Anki](https://ritornello.dev/media/ankiweb/2026-10-20-v12/mexico/map.gif) | ![Identify Western Cape in native Anki](https://ritornello.dev/media/ankiweb/2026-10-20-v13/south-africa/map.gif) |
 | Turkey | Iran |
 | ![Identify the Aegean Region in native Anki](https://ritornello.dev/media/ankiweb/2026-10-08-v8/turkey/map.gif) | ![Identify Alborz in native Anki](https://ritornello.dev/media/ankiweb/2026-10-15-v11/iran/map.gif) |
 
