@@ -1,0 +1,20 @@
+{
+  "slug": "mexico",
+  "notes": 32,
+  "cards": 160,
+  "source_guids_model_ids_card_associations_templates_fields_css_and_media": "exact",
+  "sha256": "3c961fedf8e8917c966594c5f044e1a143dc293237c00ae32f17feb08b2fa95d",
+  "bytes": 47584375,
+  "ankiweb": "https://ankiweb.net/shared/info/1177438513",
+  "date_local": "2026-10-20",
+  "github_release": "https://github.com/ritornello-labs/country-subdivision-map-decks/releases/tag/v2026.10.20",
+  "source_share_name_verified": true,
+  "approved_native_gifs": 5,
+  "personal_collection_accessed": false,
+  "publisher_mutation": "approved CSS only",
+  "publisher_sync": "normal; media sync explicitly completed",
+  "schema_changed": false,
+  "github_digest_verified": true,
+  "website": "https://ritornello.dev/#mexico-federative-entities",
+  "website_gallery_pr": 22
+}
